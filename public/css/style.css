@@ -1,0 +1,123 @@
+
+/**
+* Override CSS's
+*/
+.bg-light{
+	background-color: rgb(240,230,140)!important;
+}
+
+.margin-top-20{
+	margin-top:20px;
+}
+.feature-img{
+	max-height: 200px;
+}
+.footer-bottom{
+	padding: 35px;
+	
+	background: gray;
+}
+
+.main
+{
+	height:300px;
+    width:100px;
+	float:right;
+	
+}
+
+.menu-img:hover img,
+.menu-img:hover h3{
+	color: green;
+}
+.tips
+{
+	width:100%;
+	height:auto;
+	background-image: url("/images/slide/bcg.jpeg");
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+	flex-flow:warp;
+}
+
+.box
+{
+	width:20%;
+	height:300px;
+	background:white;
+	margin:20px;
+	box-sizing:bolder-box;
+	font-size:12px;
+	color:black;
+}
+
+.list-group{
+	float:left;
+	width:20%;
+	height:140%;
+	margin:20px;
+}
+.list-group-item-action{
+	color:blue;
+}
+
+.appoinment{
+	margin: 0;
+	padding: 0;
+
+	background: url("/images/slide/appo.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: Century Gothic;
+}
+
+.managerLog{
+	margin: 0;
+	padding: 0;
+
+	background: url("/images/slide/manager.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: Century Gothic;
+}
+
+.contact{
+	margin: 0;
+	padding: 0;
+
+	background: url("/images/slide/contact.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: Century Gothic;
+}
+
+.login{
+	margin: 0;
+	padding: 0;
+
+	background: url("/images/slide/login.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: Century Gothic;
+}
+
+.welcome{
+	margin: 0;
+	padding: 0;
+
+	background: url("/images/slide/hmbk.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: Century Gothic;
+}
+
+.history{
+	margin: 0;
+	padding: 0;
+
+	background: url("/images/slide/his.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: Century Gothic;
+}
