@@ -1,6 +1,7 @@
 ##  Event Management System
 
-##  Detail: TThrough this system customer can reserve a restaurant and by searching customer can view if a restaurant is already booked or not. When the user is booked then event manager will send the request directly to the center owner. The owner then decides whether or not to accept the request.
+##  Detail: 
+Through this system customer can reserve a restaurant and by searching customer can view if a restaurant is already booked or not. When the user is booked then event manager will send the request directly to the center owner. The owner then decides whether or not to accept the request.
 
 ##  Feature: 
 *	Customer request restaurant reservation.
